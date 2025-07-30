@@ -1,2 +1,6 @@
 line 1------editied by b2
 line 2 -----editied by b2
+
+
+line 3---updated by b2--commit-2
+line 5---updated by b2--commit-2
